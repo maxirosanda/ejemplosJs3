@@ -1,4 +1,4 @@
-
+/*
 let credito = parseInt(prompt("ingrese el monto de credito"))
 let meses = parseInt(prompt("ingrese la cantidad de cuotas"))
 let interes = 27;
@@ -32,7 +32,7 @@ function cantidadCuotas(){
 	}
 
 }
-
+*/
 
 //practica para scope clase 4
 /*
